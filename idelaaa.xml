@@ -69,6 +69,11 @@
                                             <field name="OBJECT">REAR</field>
                                           </block>
                                         </value>
+                                        <next>
+                                          <block type="comment_comment" id="396">
+                                            <field name="TEXT">lol</field>
+                                          </block>
+                                        </next>
                                       </block>
                                     </next>
                                   </block>
