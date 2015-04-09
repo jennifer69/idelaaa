@@ -39,6 +39,19 @@
                         <field name="NUM">20</field>
                       </block>
                     </value>
+                    <next>
+                      <block type="oled_cleardisplay" id="256">
+                        <next>
+                          <block type="oled_drawnumber" id="293" inline="true">
+                            <value name="NUMBER">
+                              <block type="sensor_object" id="300">
+                                <field name="OBJECT">RIGHTSIDE</field>
+                              </block>
+                            </value>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
                   </block>
                 </next>
               </block>
