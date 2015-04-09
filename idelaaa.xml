@@ -27,15 +27,6 @@
                     <field name="OBJECT">RIGHTFRONT</field>
                   </block>
                 </value>
-                <next>
-                  <block type="oled_drawnumber" id="165" inline="true">
-                    <value name="NUMBER">
-                      <block type="sensor_object" id="185">
-                        <field name="OBJECT">LEFTFRONT</field>
-                      </block>
-                    </value>
-                  </block>
-                </next>
               </block>
             </next>
           </block>
