@@ -27,6 +27,20 @@
                     <field name="OBJECT">RIGHTSIDE</field>
                   </block>
                 </value>
+                <next>
+                  <block type="oled_setcursor" id="210" inline="true">
+                    <value name="STARTX">
+                      <block type="math_number" id="217">
+                        <field name="NUM">15</field>
+                      </block>
+                    </value>
+                    <value name="STARTY">
+                      <block type="math_number" id="224">
+                        <field name="NUM">20</field>
+                      </block>
+                    </value>
+                  </block>
+                </next>
               </block>
             </next>
           </block>
