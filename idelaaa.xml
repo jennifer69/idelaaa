@@ -24,7 +24,7 @@
               <block type="oled_drawnumber" id="106" inline="true">
                 <value name="NUMBER">
                   <block type="sensor_object" id="156">
-                    <field name="OBJECT">RIGHTFRONT</field>
+                    <field name="OBJECT">RIGHTSIDE</field>
                   </block>
                 </value>
               </block>
